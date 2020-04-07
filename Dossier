@@ -1,0 +1,7 @@
+echo "# Voiture-GTA-V" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Zerky13/Voiture-GTA-V.git
+git push -u origin master
+                
